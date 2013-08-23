@@ -1,4 +1,6 @@
 SlmLocale
+
+b;la
 ===
 SlmLocale is a Zend Framework 2 module to automatically detect a locale for your application. It uses a variety of pluggable strategies to search for a valid locale. SlmLocale has support for a default locale, a set of supported locales and locale aliases.
 
